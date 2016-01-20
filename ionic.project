@@ -1,4 +1,12 @@
 {
   "name": "StartApp",
-  "app_id": "a71b055a"
+  "app_id": "a71b055a",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
 }
