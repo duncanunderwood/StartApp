@@ -1,4 +1,4 @@
-Ionic App Base
+Ionic StartApp test - Dunk
 =====================
 
 A starting project for Ionic that optionally supports using custom SCSS.
